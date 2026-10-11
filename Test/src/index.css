@@ -1,0 +1,11 @@
+.food-card{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(168, 15, 15);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid rgb(200, 26, 26);
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
